@@ -1,19 +1,19 @@
-# React Confetti Explosion
+# React Particles Explosion
 
-[![npm version](https://img.shields.io/npm/v/react-confetti-explosion.svg?style=flat-square)](https://www.npmjs.com/package/react-confetti-explosion)
+[![npm version](https://img.shields.io/npm/v/react-particles-explosion.svg?style=flat-square)](https://www.npmjs.com/package/react-particles-explosion)
 
 This is inspired by [this](https://codepen.io/Gthibaud/pen/ENzXbp) beautiful and oft-used confetti which uses canvas, but equally inspired by how many bad looking CSS examples there are out there. The goal was to create a super lightweight confetti component that would not require canvas, use only CSS for animation, and could also be controlled as an explosion (rather than raining confetti), without the need to write a full-blown particle generator.
 
 Install:
 
 ```bash
-$ yarn add react-confetti-explosion
+$ yarn add react-particles-explosion
 ```
 
 ## Usage
 
 ```jsx
-import ConfettiExplosion from 'react-confetti-explosion';
+import ConfettiExplosion from 'react-particles-explosion';
 
 function App() {
   const [isExploding, setIsExploding] = React.useState(false);
