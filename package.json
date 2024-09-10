@@ -1,10 +1,11 @@
 {
-  "name": "react-confetti-explosion",
-  "version": "2.1.2",
-  "author": "Ethan Herr <herrethan@gmail.com>",
-  "description": "A lightweight css-animation based confetti exploder for React",
+  "name": "react-particles-explosion",
+  "version": "1.0.1",
+  "author": "Aleksandr Orekhov <apexof@gmail.com>",
+  "original author": "Ethan Herr <herrethan@gmail.com>",
+  "description": "A lightweight css-animation based particles exploder for React",
   "license": "MIT",
-  "homepage": "https://github.com/herrethan/react-confetti-explosion",
+  "homepage": "https://github.com/apexof/react-particles-explosion",
   "private": false,
   "keywords": [
     "confetti",
