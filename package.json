@@ -1,6 +1,6 @@
 {
   "name": "react-particles-explosion",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "author": "Aleksandr Orekhov <apexof@gmail.com>",
   "original author": "Ethan Herr <herrethan@gmail.com>",
   "description": "A lightweight css-animation based particles exploder for React",
